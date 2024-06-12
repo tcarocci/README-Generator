@@ -6,7 +6,7 @@
 
 Creates a readme depending on user input.
 
-Screen recording -- https://app.screencastify.com/v2/manage/videos/9nUvICBsXLYsWcuTALsS
+[Link to Video Demonstration](https://app.screencastify.com/v3/watch/9nUvICBsXLYsWcuTALsS)
 
 ## Table of Contents
 

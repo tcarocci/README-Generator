@@ -6,7 +6,7 @@
 
 Creates a readme depending on user input.
 
-[Link to Video Demonstration](https://app.screencastify.com/v3/watch/9nUvICBsXLYsWcuTALsS)
+[Click Link to Video Demonstration](https://app.screencastify.com/v3/watch/9nUvICBsXLYsWcuTALsS)
 
 ## Table of Contents
 
@@ -55,4 +55,4 @@ GitHub: [tcarocci](https://github.com/tcarocci)
 Email: t.23carocci@yahoo.com
 
 Example:
-![CurrentProject](image.png)
+![CurrentProject](testREADME.png)

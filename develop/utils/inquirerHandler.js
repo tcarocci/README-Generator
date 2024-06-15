@@ -70,7 +70,7 @@ import('inquirer').then(({ default: inquirer }) => {
             .then((answers) => {
                 const readmeContent = generateMarkdown(answers);
                 
-                writeToFile('README.md', readmeContent);
+                writeToFile('sampleREADME.md', readmeContent);
             });
     }
 
